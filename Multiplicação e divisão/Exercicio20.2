@@ -1,0 +1,10 @@
+.text
+	li $v0,1
+	addi $t0,$zero,34562
+	addi $t1,$zero,123
+	
+	div $t0,$t1
+	
+	mfhi $a0 
+	
+syscall
