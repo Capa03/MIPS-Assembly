@@ -1,0 +1,24 @@
+Multiplicação e Divisão de valores 
+18 - Multiplique os valores 189072 por 133 e mostre o resultado no écrã: 
+18.1 
+ - utilizando a memória RAM para “carregar os valores para os Registos;  - utilizando o endereço LO para armazenar o resultado da multiplicação. 18.2 
+ - sem utilizar a memória RAM para “carregar os valores para os Registos; 
+ - utilizando o endereço LO para armazenar o resultado da multiplicação. 
+19 - Multiplique os valores 52712 por 34521 e mostre o resultado no écrã: 
+19.1 
+ - utilizando a memória RAM para “carregar os valores para os Registos;  - sem utilizar o endereço LO para armazenar o resultado da multiplicação. 19.2 
+ - sem utilizar a memória RAM para “carregar os valores para os Registos; 
+ - sem utilizar o endereço LO para armazenar o resultado da multiplicação; 
+ - sem utlizar o comando MOVE.
+
+
+
+20 – Sem utilizar o registo “LO” nem a memória RAM, divida os valores 34562 por 123 e mostre os  seguintes dados no écrã: 
+20.1 – O resultado da operação; 
+20.2 – O resto da divisão. 
+21 – Utilizando os registos “HI” e ”LO” e valores da memória RAM, divida 121232 por 2343 e  mostre os seguintes dados no écrã: 
+21.1 - O resultado da operação; 
+21.2 – O resto da divisão. 
+22 – Utilizando os registos “HI” e ”LO” e sem utilizar valores da memória RAM, divida 50003 por 1000 e mostre os seguintes dados no écrã: 
+22.1 - O resultado da operação; 
+22.2 – O resto da divisão. 
