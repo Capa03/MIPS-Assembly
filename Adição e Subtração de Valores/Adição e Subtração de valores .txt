@@ -1,0 +1,31 @@
+Adição e Subtração de valores 
+11- Adicione os valores 500 + 250 e mostre o resultado no écrã; 
+11.1- Utilize o registo de impressão de números inteiros, diretamente; 
+11.2- Utilize outro registo para armazenar o resultado antes de imprimir. 
+12 - Adicione os valores 100 + 25 + 55 e mostre o resultado no écrã; 
+12.1- Utilize o registo de impressão de números inteiros, diretamente; 
+12.2- Utilize outro registo para armazenar o resultado antes de imprimir. 
+13 - Adicione os valores 12,3 + 5,6 + 5,1 e mostre o resultado no écrã; 
+13.1- Utilize o registo de impressão de números decimais, diretamente; 
+13.2- Utilize outro registo para armazenar o resultado antes de imprimir. 
+14 – Subtraia os valores 250 e 345 e mostre o resultado no écrã; 
+14.1- Utilize o registo $a0 diretamente; 
+14.2- Armazene o resultado no registo $t4 e utilize: 
+14.2.1 – o comando “Move” para colocar o resultado em $a0;  
+14.2.2 – o comando “Add” para colocar o resultado em $a0.  
+15 - Subtraia os valores 300; 23 e - 144 e mostre o resultado no écrã; 
+15.1- Utilize o registo $a0 diretamente; 
+15.2- Armazene o resultado no registo $s6 e utilize: 
+15.2.1 – o comando “Move” para colocar o resultado em $a0;  
+15.2.2 – o comando “Add” para colocar o resultado em $a0. 
+
+16 - Este segmento de um programa C, contém as cinco variáveis f,g,h,i,j: 
+f = (g + h ) - ( i + j ); 
+
+Supondo que, f=$s0; g=$s1; h=$s2; i=$s3 e j= $s4, arranje uma forma de o output do programa  ser o valor 560.
+
+17 – Converta as instruções em C abaixo para instruções MIPS. Considere os seguintes registos  para cada variável: 
+ 
+a = $s0, b = $s1, c = $s2, d = $s3, e = $s4, f = $s5. 
+a) e = ( a – ( b – c ) - Faça com que o Output seja 100 
+b) f = e – (a – b ) + ( b – c ) - Faça com que o Output seja -500 
